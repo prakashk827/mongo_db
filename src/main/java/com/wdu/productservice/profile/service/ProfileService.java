@@ -35,9 +35,8 @@ public class ProfileService {
         } catch (Exception e) {
             throw CustomException.internalError();
         }
-
-
     }
+
 
 
 }
