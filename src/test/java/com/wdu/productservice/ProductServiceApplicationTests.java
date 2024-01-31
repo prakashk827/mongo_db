@@ -1,10 +1,10 @@
-package com.learn.mongodb;
+package com.wdu.productservice;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class MongodbApplicationTests {
+class ProductServiceApplicationTests {
 
 	@Test
 	void contextLoads() {

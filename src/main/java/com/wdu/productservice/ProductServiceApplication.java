@@ -1,14 +1,13 @@
-package com.learn.mongodb;
+package com.wdu.productservice;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class MongodbApplication {
+public class ProductServiceApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(MongodbApplication.class, args);
-		System.out.println("Hii");
+		SpringApplication.run(ProductServiceApplication.class, args);
 	}
 
 }
